@@ -1,0 +1,3 @@
+[submodule "MWL/odoo-modules"]
+	path = MWL/odoo-modules
+	url = git@github.com:Steff-MWL/odoo-modules
